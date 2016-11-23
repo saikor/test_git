@@ -7,6 +7,7 @@
 int main()
 {
 	printf("test git\n");
-
+	
+	printf("helo word\n");
 	return 0;
 }
