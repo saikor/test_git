@@ -12,5 +12,6 @@ int main()
 
 	printf("helo saikor\n");
 
+	printf("editing curr\n");
 	return 0;
 }
