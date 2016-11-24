@@ -13,6 +13,6 @@ int main()
 	printf("helo saikor\n");
 
 
-	printf("editing bug\n");
+	printf("editing curr\n");
 	return 0;
 }
