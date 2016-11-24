@@ -12,6 +12,5 @@ int main()
 
 	printf("helo saikor\n");
 
-	printf("dev branch\n");
 	return 0;
 }
