@@ -12,5 +12,7 @@ int main()
 
 	printf("helo saikor\n");
 
+
+	printf("editing bug\n");
 	return 0;
 }
