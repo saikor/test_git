@@ -14,5 +14,7 @@ int main()
 
 
 	printf("editing curr\n");
+
+    printf("test git reset\n");
 	return 0;
 }
