@@ -15,6 +15,6 @@ int main()
 
 	printf("editing curr\n");
 
-    printf("test git reset\n");
+    printf("test git reset: using the git pull to cancel the reset operation\n");
 	return 0;
 }
