@@ -21,6 +21,8 @@ int main()
     * 2. git pull.
     */
     printf("test git reset: using the git pull to cancel the reset operation\n");
+
+    	printf("deal the conflict\n");
 	return 0;
 }
 
