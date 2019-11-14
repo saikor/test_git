@@ -22,7 +22,7 @@ int main()
     */
     printf("test git reset: using the git pull to cancel the reset operation\n");
 
-    	printf("modify at master: deal the conflict\n");
+    	printf("modify at master and word: deal the conflict\n");
 	return 0;
 }
 
