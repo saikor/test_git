@@ -1,0 +1,3 @@
+# ignore the file
+test_git.si4project/*
+.gitignore
