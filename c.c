@@ -6,3 +6,4 @@ Then:
 
 To make the helo tracking the remote branch master.
 
+# git config --global color.ui true
